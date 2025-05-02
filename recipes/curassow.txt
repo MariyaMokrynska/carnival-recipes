@@ -1,6 +1,5 @@
 Jane's Banana Bread
 ---------------------
-<<<<<<< HEAD
 Servings: 10
 Ingredients:
 1 1/2 cups flower
@@ -28,17 +27,3 @@ Directions:
 9. Pour into greased and floured loaf pan.
 10. Bake at 350 degrees for 55 minutes.
 11. Keeps well, refrigerated.
-
-=======
-2 eggs, beaten
-3 bananas, finely crushed
-
-6. Add to creamed mixture.
-
-4. Add eggs and crushed bananas. Combine well.
-9. Mix just until combined. Do not overmix.
-2. Preheat oven to 350 degrees.
-10. Bake at 350 degrees for 55 minutes.
-
-7. Add vanilla.
->>>>>>> 6793b17c3e7acf97b69e35cd4b6ee801ebe7b736
